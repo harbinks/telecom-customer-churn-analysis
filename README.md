@@ -52,6 +52,18 @@ Telecom companies lose customers due to pricing, contract types, payment methods
 * Customer retention recommendations
 * Business-focused action plan
 
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](images/executive_dashboard.png)
+
+### Retention Dashboard
+
+![Retention Dashboard](images/retention_dashboard.png)
+
+
 ## Dataset
 
 IBM Telco Customer Churn Dataset (Kaggle)
@@ -59,3 +71,5 @@ IBM Telco Customer Churn Dataset (Kaggle)
 ## Author
 
 **Harbin KS**
+
+
